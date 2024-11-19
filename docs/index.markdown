@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Getting Started with Survey2GIS Data Processor
+# 1. Getting Started with Survey2GIS Data Processor
 
 ## Installation
 
