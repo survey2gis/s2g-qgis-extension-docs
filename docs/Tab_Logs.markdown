@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tab Logs
+title: 3. Tab Logs
 permalink: /tab_logs/
 ---
 

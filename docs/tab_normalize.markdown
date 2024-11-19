@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tab Normalize
+title: 1. Tab Normalize
 permalink: /tab_normalize/
 ---
 
