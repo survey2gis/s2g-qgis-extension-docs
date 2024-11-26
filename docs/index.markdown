@@ -1,20 +1,20 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: 1. Getting started
 ---
 
 # 1. Getting Started with Survey2GIS Data Processor
 
 ## Installation
 
-The Survey2GIS Data Processor is a QGIS plugin that facilitates the processing of tachymeter data and creates standardized GeoPackage outputs. Here's how to get started:
+The Survey2GIS Data Processor is a QGIS plugin that facilitates the processing of tachymeter data and creates standardized GeoPackage outputs. It then loads generated data into your QGIS project. Here's how to get started:
 
 1. Open QGIS Plugin Manager
-2. Search for "Survey2GIS Data Processor"
+2. Search for _Survey2GIS Data Processor_
 3. Click Install
-4. The plugin will automatically download required binaries from survey2gis
+4. The plugin will automatically download required binaries from _survey2gis_
 
 ## Requirements
 
