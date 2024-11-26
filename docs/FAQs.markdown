@@ -1,12 +1,14 @@
 ---
 layout: page
-title: 6. Profiles
+title: 6. FAQs
 permalink: /profiles/
 ---
 
-# Profiles
+#FAQs
 
-### A word of Caution: Local X-Z Orientation Mode
+## Profiles
+
+### A word of caution: Local X-Z Orientation Mode
 
 The Local X-Z Orientation Mode (`--orientation=localxz`) option is used in survey2gis commands to transform 3D survey data into 2D cross-sections suitable for GIS visualization. This method:
 
