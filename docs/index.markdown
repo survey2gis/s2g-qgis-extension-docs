@@ -31,3 +31,8 @@ The Survey2GIS Data Processor is a QGIS plugin that facilitates the processing o
 
 <hr>
 <small>Powered by <a href="https://csgis.de/" target="_blank">csgis</a></small>
+
+## Where to get help?
+
+- Create a github issue at the extension repository: [https://github.com/survey2gis/s2g-qgis-extension](https://github.com/survey2gis/s2g-qgis-extension)
+- Or join the survey2gis user group: [https://groups.io/g/survey2gis/topics](https://groups.io/g/survey2gis/topics)
