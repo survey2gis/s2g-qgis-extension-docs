@@ -28,3 +28,6 @@ The Survey2GIS Data Processor is a QGIS plugin that facilitates the processing o
 1. After installation, find the Survey2GIS Data Processor icon in your QGIS toolbar
 2. Click to launch the dockable interface
 3. The plugin will initialize on the right side of your QGIS window
+
+<hr>
+<small>Powered by <a href="https://csgis.de/" target="_blank">csgis</a></small>
