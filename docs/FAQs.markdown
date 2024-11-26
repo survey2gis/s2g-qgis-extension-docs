@@ -4,7 +4,7 @@ title: 6. FAQs
 permalink: /profiles/
 ---
 
-#FAQs
+# FAQs
 
 ## Profiles
 
