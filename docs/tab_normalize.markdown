@@ -41,3 +41,5 @@ If your parser defines fields that are not present in your input data but are re
 
 1. **Start the process**\
 A button click starts the process. Errors will be written to Tab _Logs_.
+1. **Save settings*\
+When checked your configuration of tab normalize will be saved.
