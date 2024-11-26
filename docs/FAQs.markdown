@@ -22,6 +22,6 @@ When using this mode, your GIS data loses its real-world spatial reference. To e
 1. **Disable KBS**\
 Go to the menu item `KBS` and select `No KBS in project settings`.
 1. **Specify a Projection**\
-Use the EPSG Code field in the Process tab to define the projection of your input data.
+Use the EPSG Code field in the _Process_ tab to define the projection of your input data.
 
 If neither option is set, the layers might not appear in QGIS.
