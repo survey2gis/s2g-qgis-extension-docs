@@ -4,7 +4,7 @@ title: 6. Profiles
 permalink: /profiles/
 ---
 
-# &. Profiles
+# 6. Profiles
 
 ### A Word of Caution: Local X-Z Orientation Mode
 
