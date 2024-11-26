@@ -3,7 +3,7 @@ title: 2. Tab Normalize
 permalink: /tab_normalize/
 ---
 
-# 2. Tab Normalize
+# Tab Normalize
 
 The _Normalize_ tab combines individual measurement data into a single file. The combined file can be cleaned up using various tasks. Furthermore, possible *.qml (QGIS) styles can be copied to a defined output folder. 
 

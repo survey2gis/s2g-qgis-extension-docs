@@ -4,7 +4,7 @@ title: 5. Tab Help
 permalink: /tab_help/
 ---
 
-# 5. Tab Help
+# Tab Help
 
 Open the help tab by clicking on it (1).
 

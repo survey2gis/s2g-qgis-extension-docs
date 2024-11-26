@@ -4,7 +4,7 @@ title: 3. Tab Process
 permalink: /tab_process/
 ---
 
-# 3. Tab Process
+# Tab Process
 
 The _Process_ tab allows you to define survey2gis commands and execute each.
 
