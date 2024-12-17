@@ -49,3 +49,6 @@ When adding a command via the button (10), all commands created are automaticall
 This field contains all created commands that are processed when executed.
 1.  **Start process**\
 Pressing the button starts the processing of all commands. If successful, the data is written to the geopackage in the defined output folder and loaded into QGIS. If something goes wrong, visit the _Logs_ tab and look for errors. 
+12.  **Stop on errors**\
+When this checkbox is enabled, the extension will pause processing if it encounters "ERROR" in the Survey2GIS log output. 
+Note: Errors can occur even during normal operation - for example, when an input file contains no processable data. In such cases, you can uncheck this option to allow the processing to continue with subsequent commands.
